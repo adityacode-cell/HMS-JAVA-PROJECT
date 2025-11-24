@@ -16,4 +16,3 @@ It is suitable for academic submission and real-world small-scale hospital autom
 
 ---
 
-## 📁 Project Structure
