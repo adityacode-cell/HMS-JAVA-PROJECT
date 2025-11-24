@@ -16,3 +16,15 @@ It is suitable for academic submission and real-world small-scale hospital autom
 
 ---
 
+## 📌 Technologies Used
+- Java (Core & OOP)
+- Collections Framework
+- File Handling / Database (future enhancement)
+- UML Diagrams
+
+---
+
+## 📌 How to Run the Project
+1. Install Java (JDK 8 or above)
+2. Clone the repository:
+
